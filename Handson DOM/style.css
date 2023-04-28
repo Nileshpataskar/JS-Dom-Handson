@@ -1,0 +1,14 @@
+
+.card
+{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.card1
+{
+    height: 120px;
+    width: 100px;
+    background-color: aquamarine;
+}
